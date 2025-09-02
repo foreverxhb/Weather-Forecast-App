@@ -1,4 +1,4 @@
-### Weather Forecast App
+# Weather Forecast App
 
 A simple JavaFX application that fetches and displays real-time weather information using the OpenWeatherMap API
 .
@@ -82,6 +82,8 @@ Right-click → Run.
 (Optional: you can configure .vscode/launch.json to run Maven automatically.)
 
 ## Screenshots
+![screenshot](https://github.com/foreverxhb/Weather-Forecast-App/blob/579bda603bf9405968ba07d4638d291d9bd09c14/Screenshot%202025-09-02%20183117.png)
+![screenshot](https://github.com/foreverxhb/Weather-Forecast-App/blob/579bda603bf9405968ba07d4638d291d9bd09c14/Screenshot%202025-09-02%20183141.png)
 
 
 ## Troubleshooting
