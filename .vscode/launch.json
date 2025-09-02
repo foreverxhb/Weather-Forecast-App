@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Weather Forecast App",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "com.example.weather.MainApp",
+      "preLaunchTask": "Run Weather App"
+    }
+  ]
+}
