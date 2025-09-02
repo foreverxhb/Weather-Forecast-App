@@ -1,4 +1,4 @@
-Weather Forecast App
+### Weather Forecast App
 
 A simple JavaFX application that fetches and displays real-time weather information using the OpenWeatherMap API
 .
